@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/27850222/what-is-gitignore-exactly/27850270
